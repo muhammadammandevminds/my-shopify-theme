@@ -1,0 +1,22 @@
+{
+  "name": "my-shopify-theme",
+  "version": "1.0.0",
+  "description": "Custom Shopify Theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammadammandevminds/my-shopify-theme.git"
+  },
+  "keywords": [
+    "Shopify"
+  ],
+  "author": "Muhammad Amman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhammadammandevminds/my-shopify-theme/issues"
+  },
+  "homepage": "https://github.com/muhammadammandevminds/my-shopify-theme#readme"
+}
